@@ -1,0 +1,4 @@
+embed_dim: 512
+batch_size: 2
+epochs: 10
+lr: 5e-5
